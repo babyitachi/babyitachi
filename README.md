@@ -1,7 +1,7 @@
 Hi 👋 I am Abhishrut
 ==================
 
-Engineer | Entrepreneur
+Engineer | Researcher
 ---------
 * 👽  I am known as babyitachi everywhere on the internet
 * 🌍  Currently living in India 🇮🇳
