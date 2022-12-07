@@ -11,8 +11,8 @@ Engineer | Researcher
 <a href="https://www.github.com/babyitachi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/babyitachi?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
-<a href="https://skyline.github.com/babyitachi/2021" target="_blank" rel="noreferrer">My
-2021 GitHub Skyline</a>
+<a href="https://skyline.github.com/babyitachi/2022" target="_blank" rel="noreferrer">My
+2022 GitHub Skyline</a>
 
 
 ### Socials
