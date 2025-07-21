@@ -1,30 +1,39 @@
-Hi 👋 I am Abhishrut
-==================
+# 👋 Hello, I'm Abhishrut!
 
-Engineer | Researcher
----------
-* 👽  I am known as babyitachi everywhere on the internet
-* 🌍  Currently living in India 🇮🇳
-* 🚀  I'm a CSE MS Research Scholar at IIT Delhi
-* 🔬 I specialize in NLP, RecSys, ML, DL
+Welcome to my GitHub profile! I'm passionate about technology, code, and continual learning. Here's a little bit more about me:
 
-<a href="https://www.github.com/babyitachi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/babyitachi?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+---
 
-<a href="https://skyline.github.com/babyitachi/2022" target="_blank" rel="noreferrer">My
-2022 GitHub Skyline</a>
+## 🌟 About Me
 
+- 🎓 **Education:** [MS(R) in Machine Learning - IIT Delhi; B.Tech in EXTC - VJTI]
+- 💼 **Profession:** [Software Research Engineer/Scientist - Intel]
+- 🌍 **Location:** [Bengaluru, India]
+- 💬 **Languages:** [JavaScript, Python]
 
-### Socials
+---
 
-<p align="left">
-<a href="https://www.linkedin.com/in/abhishrut-vaidya/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
+## 🛠️ Skills & Technologies
 
-### My GitHub Stats
+- Front-End: HTML, CSS, JavaScript, React, Angular, Dart
+- Back-End: Node.js, Python, .Net
+- Cloud: AWS, Azure, GCP
+- Databases: MySQL, MongoDB, PostgreSQL
+- Tools: Git, GitHub, Figma
 
-<a href="http://www.github.com/babyitachi"><img src="https://github-readme-stats.vercel.app/api?username=babyitachi&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="babyitachi's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/babyitachi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=babyitachi&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 📈 GitHub Stats
 
-<a href="https://github.com/babyitachi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babyitachi&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true)
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/abhishrut-vaidya)
+- [Personal Website](https://babyitachi.github.io/abhishrut-website)
+
+---
+
+Thanks for stopping by! 🚀
